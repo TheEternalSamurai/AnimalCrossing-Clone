@@ -3944,7 +3944,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1687258581}
   m_LocalRotation: {x: 0.42261827, y: 0, z: 0, w: 0.9063079}
-  m_LocalPosition: {x: 12.059611, y: 12.024624, z: -18.3512}
+  m_LocalPosition: {x: 12.059611, y: 5.538448, z: -12.079609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4672,12 +4672,12 @@ PrefabInstance:
     - target: {fileID: 2447207312574335698, guid: d4c6d045543f0854982cccd0cf1d9b95,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 12.024624
+      value: 5.538448
       objectReference: {fileID: 0}
     - target: {fileID: 2447207312574335698, guid: d4c6d045543f0854982cccd0cf1d9b95,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -18.3512
+      value: -12.079609
       objectReference: {fileID: 0}
     - target: {fileID: 2447207312574335698, guid: d4c6d045543f0854982cccd0cf1d9b95,
         type: 3}
@@ -4718,6 +4718,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2447207312826182110, guid: d4c6d045543f0854982cccd0cf1d9b95,
+        type: 3}
+      propertyPath: m_CameraDistance
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2447207312826182110, guid: d4c6d045543f0854982cccd0cf1d9b95,
+        type: 3}
+      propertyPath: m_ScreenY
+      value: 0.61
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c6d045543f0854982cccd0cf1d9b95, type: 3}
